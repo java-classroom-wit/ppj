@@ -1,1 +1,1 @@
-# ppj
+# Pracownia programowania Java
